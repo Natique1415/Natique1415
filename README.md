@@ -31,19 +31,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natique1415&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natique1415&theme=highcontrast" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Watch My Contributions Grow!
-<p align="center">
-  <img src="https://github.com/natique1415/natique1415/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
