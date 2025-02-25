@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F7A738&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Science+Enthusiast;Flutter+App+Developer" alt="Typing SVG">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=2AF73C&width=435&lines=Coding+For+Plants;Bay+Harbour+Coder" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">The Name's Alam... Natique Ibrar Alam</h1>
