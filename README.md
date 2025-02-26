@@ -9,20 +9,19 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <h2>🔥 About Me:</h2>
-</p>
-
-<p align="center">
-  🔭 I’m currently working on <a href="https://plantastnow.wixsite.com/plantast"><b>Plantast</b></a> <br>
-  🌱 I’m currently learning <b>C</b> <br>
-  📫 How to reach me <b>ibrarnatique8@gmail.com</b> <br>
-  🎓 Earned a Harvard certificate! <a href="https://certificates.cs50.io/ab9fff6f-7b3a-4753-8201-c9a0353d5bcd.pdf?size=letter"><b>CS50P</b></a>
-</p>
+  <p>
+    🛠️ I’m currently working on <a href="https://plantastnow.wixsite.com/plantast"><b>Plantast</b></a> <br>
+    🌱 I’m currently learning <b>C</b> <br>
+    📫 How to reach me: <b>ibrarnatique8@gmail.com</b> <br>
+    🎓 Earned a Harvard certificate! <a href="https://certificates.cs50.io/ab9fff6f-7b3a-4753-8201-c9a0353d5bcd.pdf?size=letter"><b>CS50P</b></a>
+  </p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <h2>🌐 Connect with me:</h2>
   <a href="https://www.linkedin.com/in/natique-ibrar-alam54a6681b6">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,25 +29,27 @@
   <a href="mailto:ibrarnatique8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <h2>🚀 Languages & Tools:</h2>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> 
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a> 
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a> 
-</p>
+  <p>
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a> 
+    <a href="https://dart.dev" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+    </a> 
+    <a href="https://flutter.dev" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+    </a> 
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a> 
+    <a href="https://www.sqlite.org/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+    </a> 
+  </p>
+</div>
