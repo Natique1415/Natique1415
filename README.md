@@ -7,7 +7,9 @@
 <h1 align="center">The Name's Alam... Natique Ibrar Alam</h1>
 <h3 align="center">Coding for Plants 🌱</h3>
 
+
 ---
+
 
 <div align="center">
   <h2>🔥 About Me:</h2>
@@ -19,7 +21,9 @@
   </p>
 </div>
 
+
 ---
+
 
 <div align="center">
   <h2>🌐 Connect with me:</h2>
